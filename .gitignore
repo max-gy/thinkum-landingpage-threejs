@@ -1,0 +1,6 @@
+node_modules/
+dist/
+threejs/
+imprint.html
+package-lock.json
+privacy.html
